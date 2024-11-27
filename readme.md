@@ -21,5 +21,5 @@ This project demonstrates the slicing of 3D textures using **Three.js**. The 3D 
 
 ## Live demonstration
 
-[https://link.com](https://micro-ice-ice.github.io/3d-texture-slicing/)
+https://micro-ice-ice.github.io/3d-texture-slicing/
 
